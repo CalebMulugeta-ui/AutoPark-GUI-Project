@@ -33,10 +33,10 @@ The project is built in **IntelliJ IDEA** using **pure Java** and provides an in
 ## 🖥️ Tech Stack
 
 Language: Java
-IDE: IntelliJ IDEA
-GUI Toolkit: Swing or JavaFX (depending on implementation)
-If using JavaFX, make sure your JavaFX SDK is configured in
-File → Project Structure → Libraries and add these VM options when running:
+- IDE: IntelliJ IDEA
+- GUI Toolkit: Swing or JavaFX (depending on implementation)
+- If using JavaFX, make sure your JavaFX SDK is configured in
+- File → Project Structure → Libraries and add these VM options when running:
 --module-path "path/to/javafx-sdk/lib" --add-modules javafx.controls,javafx.fxml
 
 
